@@ -1,0 +1,39 @@
+.head{
+    height: 100vh;
+
+}
+.header-image{
+    width: 400px;
+}
+.top-padding{
+    padding-top: 120px;
+}
+.mybg-image{
+    background-image: url('../../assets/iot3jpg.jpg');
+    height: 100%;
+ 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: fixed;
+}
+.mybg-image span{
+    color: #fff;
+  
+    font-family: arial;
+  
+    background: rgba(0,0,0,0.5);
+    padding: 10px;
+ 
+  
+}
+.mybg-image span p{
+    color: #fff;
+  
+    font-family: arial;
+  
+    background: rgba(0,0,0,0.5);
+    padding: 10px;
+ 
+  
+}
